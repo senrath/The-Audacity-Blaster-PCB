@@ -19,7 +19,7 @@
 - Because they were not intended to be part of the automated assembly through hole components were only selected for their footprint and may or may not be part of basic and extended basic, if you include them in assembly you may wish to swap them out.
 - While the schematic calls for 100uF electrolytic capacitors I have been using 47uF in my testing (because they're what I had on hand) with no issues.
 - The three power connections (POWER1, ESCPOWER1, SOLENOID1) are intended to be empty holes for wires to be inserted through and then soldered, there are no components that go there.
-- While the RP2040-Zero can be soldered with an iron, but is much easier to be soldered with a hot plate or reflow oven.
+- While the RP2040-Zero can be soldered with an iron it is much easier to use a with a hot plate or reflow oven.
 
 ## Components To Be Hand Soldered
 - 1x RP2040-Zero
